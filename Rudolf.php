@@ -83,6 +83,7 @@ class Rudolf{
 		return $details;
 	}
 }
+/*
 
 $rudolf = new Rudolf();
 $programmeDetails = $rudolf->main();
@@ -93,3 +94,4 @@ foreach($programmeDetails as $programme){
 	print "\n\n";
 }
 
+*/
